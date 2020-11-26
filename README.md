@@ -5,4 +5,4 @@ Közreműködők:
   Semendi Ádám István,
   Hosszú Szilárd József,
   Kiss Dávid Zsolt,
-  Deák Ruben,
+  Deák Ruben.
