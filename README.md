@@ -1,6 +1,5 @@
-Képfeldoglozás: 
-===============
-# Művészi Kép:
+Képfeldoglozás - Művészi Kép:
+=============== 
 
 A Képfeldolgozás a gyakorlatban nevű tantárgyhoz készített beadandó projekt.
 
