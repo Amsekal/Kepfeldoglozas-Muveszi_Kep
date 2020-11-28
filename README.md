@@ -1,4 +1,4 @@
-# Kepfeldoglozas-Muveszi_Kep
+# Kepfeldolgozas-Muveszi_Kep
 A Képfeldolgozás a gyakorlatban nevű tantárgyhoz készített beadandó projekt
 
 Közreműködők:
